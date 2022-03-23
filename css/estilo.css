@@ -1,4 +1,14 @@
-#home {
-    background: #0000ff;
-    color: rgb(253, 252, 252);
-}
+    #home {
+        background: #0000ff;
+        color: rgb(253, 252, 252);
+        width: auto;
+        height: auto;
+    }
+    
+    .a {
+        caret-color: aliceblue;
+    }
+    
+    .nav-item {
+        text-transform: none;
+    }
